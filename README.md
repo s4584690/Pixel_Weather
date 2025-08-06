@@ -13,6 +13,7 @@ This is a React Native-based weather application that allows users to:
 
 The app also integrates location-based services to fetch the user's current location and weather data.
 <img width="797" height="770" alt="截屏2025-08-06 10 39 59" src="https://github.com/user-attachments/assets/88c9677c-8eb9-40e0-a549-4f2f4a9ea290" />
+<img width="701" height="648" alt="截屏2025-08-06 11 11 13" src="https://github.com/user-attachments/assets/1047d21f-828f-400d-be12-e4ba3e20be07" />
 
 
 ## Features
