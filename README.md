@@ -12,6 +12,8 @@ This is a React Native-based weather application that allows users to:
 - Set personalized notification based on specific time, location and weather types.
 
 The app also integrates location-based services to fetch the user's current location and weather data.
+<img width="797" height="770" alt="截屏2025-08-06 10 39 59" src="https://github.com/user-attachments/assets/88c9677c-8eb9-40e0-a549-4f2f4a9ea290" />
+
 
 ## Features
 - **Current Location Weather**: Automatically fetches the user's current location and displays weather information, including temperature, weather status, and hourly forecast.
